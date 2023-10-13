@@ -4,31 +4,31 @@ Author: Nur Bujang
 
 ## Tasks
 ### List of Contents
-1. Week 2 Task
+1. Task 1
     - Description
     - Method
     - Conclusion
     - References
 
-2. Week 4 Task
+2. Task 2
     - Description
     - Method
     - Conclusion
     - References
 
-3. Week 6 Task
+3. Task 3
     - Description
     - Method
     - Conclusion
     - References
 
-4. Week 8 Task
+4. Task 4
     - Description
     - Method
     - Conclusion
     - References
 
-5. Week 10 Task
+5. Task 5
     - Description
     - Method
     - Conclusion
@@ -43,23 +43,24 @@ Author: Nur Bujang
 #### References
 
 
-## **WEEK 2 TASK: xxx.py**
+## **Task 1 : Collatz Conjecture **
 
 ### Task Description:
-*The task is to *
+*The task is to verify, using Python, that the Collatz conjecture is true for the first 10000 positive integers.*
+$$ f(x) =  \Biggl\{ $$
 
 ### Method:
-1. 
+1. brackets (1)
 2. 
 
 ### Conclusion:
 The
 
 ### References:
-1. 
+1. Overleaf, the Online LaTeX Editor (2019). Brackets and Parentheses - Overleaf, Online LaTeX Editor. [online] Overleaf.com. Available at: https://www.overleaf.com/learn/latex/Brackets_and_Parentheses [Accessed 13 Oct. 2023].
 2. 
 
-## **WEEK 4 TASK: xxx.py** 
+## **Task 2** 
 
 ### Task Description: 
 *The task is to *
@@ -76,7 +77,7 @@ The
 2. 
 
 
-## **WEEK 6 TASK: xxx.py** 
+## **Task 3** 
 
 ### Task Description:
 *The task is to *
@@ -96,7 +97,7 @@ The
 4. 
 5. 
 
-## **WEEK 8 TASK: xxx.py** 
+## **Task 4** 
 
 ### Task Description:
 *The task is to *
@@ -119,7 +120,7 @@ The
 7. 
 8. 
 
-## **WEEK 10 TASK: xxx.py** 
+## **Task 5** 
 
 ### Task Description:
 *The task is to *

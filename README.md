@@ -1,6 +1,47 @@
 # fundaw23
-Project and tasks for Fundamentals of Data Analytics W2023 ATUGM
+**Project and tasks for Fundamentals of Data Analytics W2023 ATUGM**
 Author: Nur Bujang
+
+## Tasks
+### List of Contents
+1. Week 2 Task
+    - Description
+    - Method
+    - Conclusion
+    - References
+
+2. Week 4 Task
+    - Description
+    - Method
+    - Conclusion
+    - References
+
+3. Week 6 Task
+    - Description
+    - Method
+    - Conclusion
+    - References
+
+4. Week 8 Task
+    - Description
+    - Method
+    - Conclusion
+    - References
+
+5. Week 10 Task
+    - Description
+    - Method
+    - Conclusion
+    - References
+
+## Project
+### List of Contents
+#### Project Title
+#### Description
+#### Method
+#### Conclusion
+#### References
+
 
 ## **WEEK 2 TASK: xxx.py**
 

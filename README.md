@@ -34,12 +34,11 @@ Author: Nur Bujang
     - Conclusion
     - References
 
-## PROJECT
-#### Title
-#### Description
-#### Method
-#### Conclusion
-#### References
+## PROJECT: Analysis of Iris Flower Data Set by Ronald A. Fisher
+### Description
+### Method
+### Conclusion
+### References
 
 
 ## **Task 1 : Collatz Conjecture **

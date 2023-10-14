@@ -2,7 +2,7 @@
 **Project and tasks for Fundamentals of Data Analytics W2023 ATUGM**
 Author: Nur Bujang
 
-## Tasks
+## TASKS
 ### List of Contents
 1. Task 1
     - Description
@@ -34,9 +34,8 @@ Author: Nur Bujang
     - Conclusion
     - References
 
-## Project
-### List of Contents
-#### Project Title
+## PROJECT
+#### Title
 #### Description
 #### Method
 #### Conclusion
@@ -148,3 +147,23 @@ The.
 9. 
 10. 
 
+# PROJECT : Analysis of Iris Flower Data Set by Ronald A. Fisher
+
+## Description
+The project is to create a notebook investigating the variables and
+data points within the well-known iris flower data set associated
+with Ronald A Fisher.(1)
+• In the notebook, you should discuss the classification of each
+variable within the data set according to common variable types
+and scales of measurement in mathematics, statistics, and Python.
+• Select, demonstrate, and explain the most appropriate summary
+statistics to describe each variable.
+• Select, demonstrate, and explain the most appropriate plot(s) for
+each variable.
+• The notebook should follow a cohesive narrative about the data
+set.
+## Method
+## Conclusion
+## References
+1. archive.ics.uci.edu. (1988). UCI Machine Learning Repository. [online] Available at: https://archive.ics.uci.edu/dataset/53/iris [Accessed 14 Oct. 2023].
+‌

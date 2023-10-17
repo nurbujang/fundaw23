@@ -35,10 +35,10 @@ Author: Nur Bujang
     - References
 
 ## PROJECT: Analysis of Iris Flower Data Set by Ronald A. Fisher
-### Description
-### Method
-### Conclusion
-### References
+    - Description
+    - Method
+    - Conclusion
+    - References
 
 
 ## **Task 1 : Collatz Conjecture**
@@ -79,6 +79,7 @@ The Collatz Conjecture is verified to be true for the first 10000 positive integ
 9. W3Schools (2019). Python Conditions. [online] W3schools.com. Available at: https://www.w3schools.com/python/python_conditions.asp [Accessed 17 Oct. 2023].
 10. ‌GeeksforGeeks. (2017). Python if else. [online] Available at: https://www.geeksforgeeks.org/python-if-else/ [Accessed 17 Oct. 2023].
 11. Stack Overflow. (n.d.). Meaning of list[-1] in Python. [online] Available at: https://stackoverflow.com/questions/52395099/meaning-of-list-1-in-python [Accessed 15 Oct. 2023].
+
 
 ‌## **Task 2 : Penguins Data Set Description** 
 Give an overview of the famous penguins data set (1) and explain the types of variables it contains. 

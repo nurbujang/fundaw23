@@ -49,7 +49,7 @@ $$ f(x) =  \Biggl\{ $$
 
 ### Method:
 1. Collatz (1-3)
-2. brackets (4)
+2. 
 3. append (5)
 4. list (6)
 
@@ -61,7 +61,7 @@ The
 1. Honner, P. (2020). The Simple Math Problem We Still Can’t Solve. [online] Quanta Magazine. Available at: https://www.quantamagazine.org/why-mathematicians-still-cant-solve-the-collatz-conjecture-20200922/ [Accessed 13 Oct. 2023].
 2. ‌Stack Overflow. (n.d.). Collatz Sequence. (Python 3). [online] Available at: https://stackoverflow.com/questions/33324432/collatz-sequence-python-3#33324464 [Accessed 15 Oct. 2023].
 3. Sao, P. (2021). Understanding Collatz Sequence in Python. [online] Python Pool. Available at: https://www.pythonpool.com/collatz-sequence-python/ [Accessed 15 Oct. 2023]. 
-4. Overleaf, the Online LaTeX Editor (2019). Brackets and Parentheses - Overleaf, Online LaTeX Editor. [online] Overleaf.com. Available at: https://www.overleaf.com/learn/latex/Brackets_and_Parentheses [Accessed 13 Oct. 2023].
+4. www.overleaf.com. (n.d.). Mathematical expressions. [online] Available at: https://www.overleaf.com/learn/latex/mathematical_expressions [Accessed 17 Oct. 2023].
 5. www.w3schools.com. (n.d.). Python List append() Method. [online] Available at: https://www.w3schools.com/python/ref_list_append.asp [Accessed 15 Oct. 2023].
 6. Stack Overflow. (n.d.). Meaning of list[-1] in Python. [online] Available at: https://stackoverflow.com/questions/52395099/meaning-of-list-1-in-python [Accessed 15 Oct. 2023].
 ‌

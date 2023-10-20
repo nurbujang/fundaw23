@@ -87,28 +87,26 @@ Give an overview of the famous penguins data set (1) and explain the types of va
 The task is to suggest the types of variables that should be used to model them in Python and to explain your rationale.
 
 ### Method:
-1. Waskom, M. (2022). seaborn-data. [online] GitHub. Available at: https://github.com/mwaskom/seaborn-data/blob/master/penguins.csv [Accessed 13 Oct. 2023].
-2. Pandey, P. (2020). penguin dataset : The new Iris. [online] kaggle.com. Available at: https://www.kaggle.com/code/parulpandey/penguin-dataset-the-new-iris [Accessed 17 Oct. 2023].
-import csv file: datatofish.com. (2023). How to Import a CSV File into Python using Pandas - Data to Fish. [online] Available at: https://datatofish.com/import-csv-file-python-using-pandas/ [Accessed 20 Oct. 2023].
+1. 
 ‌
-df.info: w3resource. (2022). Pandas DataFrame: - info() function. [online] Available at: https://www.w3resource.com/pandas/dataframe/dataframe-info.php [Accessed 20 Oct. 2023].
-‌
-‌data types: Polamuri, S. (2023). Mastering Data Analysis: A Comprehensive Look at Continuous and Categorical Data Types - Dataaspirant. [online] https://dataaspirant.com/. Available at: https://dataaspirant.com/continuous-and-categorical-data-types/ [Accessed 20 Oct. 2023].
-
-df.dtypes: pandas.pydata.org. (n.d.). pandas.DataFrame.dtypes — pandas 1.5.1 documentation. [online] Available at: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.dtypes.html [Accessed 20 Oct. 2023].
-‌
-‌
-dtype: note.nkmk.me. (2023). pandas: How to use astype() to cast dtype of DataFrame | note.nkmk.me. [online] Available at: https://note.nkmk.me/en/python-pandas-dtype-astype/ [Accessed 20 Oct. 2023].
-‌
-
-
 ‌
 ### Conclusion:
 The
 
 ### References:
-1. 
-2. 
+1. Waskom, M. (2022). seaborn-data. [online] GitHub. Available at: https://github.com/mwaskom/seaborn-data/blob/master/penguins.csv [Accessed 13 Oct. 2023].
+2. Pandey, P. (2020). penguin dataset : The new Iris. [online] kaggle.com. Available at: https://www.kaggle.com/code/parulpandey/penguin-dataset-the-new-iris [Accessed 17 Oct. 2023].
+import csv file: datatofish.com. (2023). How to Import a CSV File into Python using Pandas - Data to Fish. [online] Available at: https://datatofish.com/import-csv-file-python-using-pandas/ [Accessed 20 Oct. 2023].
+
+‌data types: Polamuri, S. (2023). Mastering Data Analysis: A Comprehensive Look at Continuous and Categorical Data Types - Dataaspirant. [online] https://dataaspirant.com/. Available at: https://dataaspirant.com/continuous-and-categorical-data-types/ [Accessed 20 Oct. 2023].
+‌
+df.dtypes: pandas.pydata.org. (n.d.). pandas.DataFrame.dtypes — pandas 1.5.1 documentation. [online] Available at: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.dtypes.html [Accessed 20 Oct. 2023].
+
+df.info: w3resource. (2022). Pandas DataFrame: - info() function. [online] Available at: https://www.w3resource.com/pandas/dataframe/dataframe-info.php [Accessed 20 Oct. 2023].
+‌
+dtype: note.nkmk.me. (2023). pandas: How to use astype() to cast dtype of DataFrame | note.nkmk.me. [online] Available at: https://note.nkmk.me/en/python-pandas-dtype-astype/ [Accessed 20 Oct. 2023].
+
+df.at: w3resource. (2022a). Pandas DataFrame property: at. [online] Available at: https://www.w3resource.com/pandas/dataframe/dataframe-at.php [Accessed 20 Oct. 2023].
 
 
 ## **Task 3 : Penguins Data Set Distribution Model** 

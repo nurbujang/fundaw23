@@ -102,6 +102,8 @@ import csv file: datatofish.com. (2023). How to Import a CSV File into Python us
 ‌
 df.dtypes: pandas.pydata.org. (n.d.). pandas.DataFrame.dtypes — pandas 1.5.1 documentation. [online] Available at: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.dtypes.html [Accessed 20 Oct. 2023].
 
+pd.api.types.is_string_dtype: pandas.pydata.org. (2023). pandas.api.types.is_string_dtype — pandas 2.1.1 documentation. [online] Available at: https://pandas.pydata.org/docs/reference/api/pandas.api.types.is_string_dtype.html [Accessed 21 Oct. 2023].
+
 df.info: w3resource. (2022). Pandas DataFrame: - info() function. [online] Available at: https://www.w3resource.com/pandas/dataframe/dataframe-info.php [Accessed 20 Oct. 2023].
 ‌
 dtype astype: note.nkmk.me. (2023). pandas: How to use astype() to cast dtype of DataFrame | note.nkmk.me. [online] Available at: https://note.nkmk.me/en/python-pandas-dtype-astype/ [Accessed 20 Oct. 2023].

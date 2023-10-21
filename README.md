@@ -104,7 +104,7 @@ df.dtypes: pandas.pydata.org. (n.d.). pandas.DataFrame.dtypes — pandas 1.5.1 d
 
 df.info: w3resource. (2022). Pandas DataFrame: - info() function. [online] Available at: https://www.w3resource.com/pandas/dataframe/dataframe-info.php [Accessed 20 Oct. 2023].
 ‌
-dtype: note.nkmk.me. (2023). pandas: How to use astype() to cast dtype of DataFrame | note.nkmk.me. [online] Available at: https://note.nkmk.me/en/python-pandas-dtype-astype/ [Accessed 20 Oct. 2023].
+dtype astype: note.nkmk.me. (2023). pandas: How to use astype() to cast dtype of DataFrame | note.nkmk.me. [online] Available at: https://note.nkmk.me/en/python-pandas-dtype-astype/ [Accessed 20 Oct. 2023].
 
 df.at: w3resource. (2022a). Pandas DataFrame property: at. [online] Available at: https://www.w3resource.com/pandas/dataframe/dataframe-at.php [Accessed 20 Oct. 2023].
 

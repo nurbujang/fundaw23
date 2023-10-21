@@ -80,7 +80,7 @@ The Collatz Conjecture is verified to be true for the first 10000 positive integ
 10. ‌GeeksforGeeks. (2017). Python if else. [online] Available at: https://www.geeksforgeeks.org/python-if-else/ [Accessed 17 Oct. 2023].
 11. Stack Overflow. (n.d.). Meaning of list[-1] in Python. [online] Available at: https://stackoverflow.com/questions/52395099/meaning-of-list-1-in-python [Accessed 15 Oct. 2023].
 
-## **Task 2 : Penguins Data Set Description**
+## **Task 2 : Penguins Data Set Variables**
 Give an overview of the famous penguins data set (1) and explain the types of variables it contains. 
 
 ### Task Description: 
@@ -102,13 +102,27 @@ import csv file: datatofish.com. (2023). How to Import a CSV File into Python us
 ‌
 df.dtypes: pandas.pydata.org. (n.d.). pandas.DataFrame.dtypes — pandas 1.5.1 documentation. [online] Available at: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.dtypes.html [Accessed 20 Oct. 2023].
 
-pd.api.types.is_string_dtype: pandas.pydata.org. (2023). pandas.api.types.is_string_dtype — pandas 2.1.1 documentation. [online] Available at: https://pandas.pydata.org/docs/reference/api/pandas.api.types.is_string_dtype.html [Accessed 21 Oct. 2023].
-
 df.info: w3resource. (2022). Pandas DataFrame: - info() function. [online] Available at: https://www.w3resource.com/pandas/dataframe/dataframe-info.php [Accessed 20 Oct. 2023].
 ‌
 dtype astype: note.nkmk.me. (2023). pandas: How to use astype() to cast dtype of DataFrame | note.nkmk.me. [online] Available at: https://note.nkmk.me/en/python-pandas-dtype-astype/ [Accessed 20 Oct. 2023].
 
 df.at: w3resource. (2022a). Pandas DataFrame property: at. [online] Available at: https://www.w3resource.com/pandas/dataframe/dataframe-at.php [Accessed 20 Oct. 2023].
+
+Try, except,else, finally: Satyam, K. (2020). Try, Except, else and Finally in Python. [online] GeeksforGeeks. Available at: https://www.geeksforgeeks.org/try-except-else-and-finally-in-python/ [Accessed 21 Oct. 2023].
+‌Python Tutorial - Master Python Programming For Beginners from Scratch. (n.d.). Understanding the Python try...except...finally Statement. [online] Available at: https://www.pythontutorial.net/python-basics/python-try-except-finally/ [Accessed 21 Oct. 2023].
+van de Klundert, S. (n.d.). Python Exceptions: An Introduction – Real Python. [online] realpython.com. Available at: https://realpython.com/python-exceptions/ [Accessed 21 Oct. 2023].
+‌
+‌
+categorical data: pandas.pydata.org. (n.d.). Categorical data — pandas 1.5.0 documentation. [online] Available at: https://pandas.pydata.org/docs/user_guide/categorical.html [Accessed 21 Oct. 2023].
+pandas.pydata.org. (n.d.). pandas.Series.cat.ordered — pandas 2.1.1 documentation. [online] Available at: https://pandas.pydata.org/docs/reference/api/pandas.Series.cat.ordered.html [Accessed 21 Oct. 2023].
+‌
+‌
+to numeric: pandas.pydata.org. (n.d.). pandas.to_numeric — pandas 1.4.2 documentation. [online] Available at: https://pandas.pydata.org/docs/reference/api/pandas.to_numeric.html [Accessed 21 Oct. 2023].
+‌
+isna: pandas.pydata.org. (n.d.). pandas.isnull — pandas 1.4.2 documentation. [online] Available at: https://pandas.pydata.org/docs/reference/api/pandas.isnull.html [Accessed 21 Oct. 2023].
+‌
+
+‌
 
 
 ## **Task 3 : Penguins Data Set Distribution Model** 

@@ -110,10 +110,10 @@ df.at: w3resource. (2022a). Pandas DataFrame property: at. [online] Available at
 
 
 ## **Task 3 : Penguins Data Set Distribution Model** 
-For each of the variables in the penguins data set():
+For each of the variables in the penguins data set(1):
 
 ### Task Description:
-The task is to suggest what probability distribution from the numpy random distributions list is the most appropriate to model the variable ().
+The task is to suggest what probability distribution from the numpy random distributions list is the most appropriate to model the variable (2).
 
 
 ### Method:
@@ -124,7 +124,7 @@ The task is to suggest what probability distribution from the numpy random distr
 The 
 
 ### References:
-1. () Waskom, M. (2022). seaborn-data. [online] GitHub. Available at: https://github.com/mwaskom/seaborn-data/blob/master/penguins.csv [Accessed 13 Oct. 2023].  
+1. Waskom, M. (2022). seaborn-data. [online] GitHub. Available at: https://github.com/mwaskom/seaborn-data/blob/master/penguins.csv [Accessed 13 Oct. 2023].  
 2. numpy.org. (n.d.). Random Generator — NumPy v1.21 Manual. [online] Available at: https://numpy.org/doc/stable/reference/random/generator.html [Accessed 13 Oct. 2023].
 3. 
 4. 
@@ -158,7 +158,7 @@ The
 Penguins data set.
 
 ### Task Description:
-The task is to create an appropriate individual plot for each of the variables in the penguin data set ()
+The task is to create an appropriate individual plot for each of the variables in the penguin data set (1)
 
 
 ### Method:
@@ -169,7 +169,7 @@ The task is to create an appropriate individual plot for each of the variables i
 The.
 
 ### References:
-1. () Waskom, M. (2022). seaborn-data. [online] GitHub. Available at: https://github.com/mwaskom/seaborn-data/blob/master/penguins.csv [Accessed 13 Oct. 2023].  
+1. Waskom, M. (2022). seaborn-data. [online] GitHub. Available at: https://github.com/mwaskom/seaborn-data/blob/master/penguins.csv [Accessed 13 Oct. 2023].  
 2. 
 3. 
 4. 

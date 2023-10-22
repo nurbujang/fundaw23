@@ -2,8 +2,8 @@
 **Project and tasks for Fundamentals of Data Analytics W2023 ATUGM**
 Author: Nur Bujang
 
-## TASKS
-### List of Contents
+## List of Contents
+### Tasks
 1. Task 1
     - Description
     - Method
@@ -81,50 +81,42 @@ The Collatz Conjecture is verified to be true for the first 10000 positive integ
 11. Stack Overflow. (n.d.). Meaning of list[-1] in Python. [online] Available at: https://stackoverflow.com/questions/52395099/meaning-of-list-1-in-python [Accessed 15 Oct. 2023].
 
 ## **Task 2 : Penguins Data Set Variables**
-Give an overview of the famous penguins data set (1) and explain the types of variables it contains. 
+Give an overview of the famous penguins data set (1,2) and explain the types of variables it contains. 
 
 ### Task Description: 
 The task is to suggest the types of variables that should be used to model them in Python and to explain your rationale.
 
 ### Method:
-1. 
-‌
+1. First, I imported the numpy library for computational operations and pandas library for data processing.
+2. After importing the penguins.csv data set (3), I ran df.head to show a few lines of the data frame.
+3. To find out the variable types (4), I performed df.dtypes (5-6) but it can also be achieved using df.info (7).
+4.  The output showed that the data frame consists of columns containing objects and floats. However, a quick lookover of the data file shows that the flipper length and body mass are int values. My question was why did these columns output as floats.
+5.  I checked each numerical column by row using df.at (8) and isinstance function (9) to confirm that these column variables are not int values. 
+6.  Then I used For loops (10) and df.astype (11) and pandas categorical data (12-13) to print out the categories of columns with string values.
+7.  For the numerical columns, I used a For loop (10), exception handling (14-16), and df.astype (11) to confirm that these are all floats by confirming that these cannot be converted into integers. The flipper length and body mass are considered floats because they contain null values (17) which cannot be converted into int values. df.info (7) would also give the same information in terms of null values.
 ‌
 ### Conclusion:
-The
+The penguins dataset consists of object columns containing strings and numerical columns containing floats. Even though flipper length and body mass columns are int values on the data file, these are considered floats because they contain null values.
 
 ### References:
 1. Waskom, M. (2022). seaborn-data. [online] GitHub. Available at: https://github.com/mwaskom/seaborn-data/blob/master/penguins.csv [Accessed 13 Oct. 2023].
 2. Pandey, P. (2020). penguin dataset : The new Iris. [online] kaggle.com. Available at: https://www.kaggle.com/code/parulpandey/penguin-dataset-the-new-iris [Accessed 17 Oct. 2023].
-import csv file: datatofish.com. (2023). How to Import a CSV File into Python using Pandas - Data to Fish. [online] Available at: https://datatofish.com/import-csv-file-python-using-pandas/ [Accessed 20 Oct. 2023].
-
-‌data types: Polamuri, S. (2023). Mastering Data Analysis: A Comprehensive Look at Continuous and Categorical Data Types - Dataaspirant. [online] https://dataaspirant.com/. Available at: https://dataaspirant.com/continuous-and-categorical-data-types/ [Accessed 20 Oct. 2023].
+3. datatofish.com. (2023). How to Import a CSV File into Python using Pandas - Data to Fish. [online] Available at: https://datatofish.com/import-csv-file-python-using-pandas/ [Accessed 20 Oct. 2023].
+4. Polamuri, S. (2023). Mastering Data Analysis: A Comprehensive Look at Continuous and Categorical Data Types - Dataaspirant. [online] https://dataaspirant.com/. Available at: https://dataaspirant.com/continuous-and-categorical-data-types/ [Accessed 20 Oct. 2023].
+5. pandas.pydata.org. (n.d.). pandas.DataFrame.dtypes — pandas 1.5.1 documentation. [online] Available at: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.dtypes.html [Accessed 20 Oct. 2023].
+6. note.nkmk.me. (2023). pandas: How to use astype() to cast dtype of DataFrame | note.nkmk.me. [online] Available at: https://note.nkmk.me/en/python-pandas-dtype-astype/ [Accessed 20 Oct. 2023].
+7. w3resource. (2022). Pandas DataFrame: - info() function. [online] Available at: https://www.w3resource.com/pandas/dataframe/dataframe-info.php [Accessed 20 Oct. 2023].
+8. w3resource. (2022a). Pandas DataFrame property: at. [online] Available at: https://www.w3resource.com/pandas/dataframe/dataframe-at.php [Accessed 20 Oct. 2023].
+9. www.w3schools.com. (n.d.). Python isinstance() Function. [online] Available at: https://www.w3schools.com/python/ref_func_isinstance.asp [Accessed 22 Oct. 2023].
+10. W3Schools (2019). Python For Loops. [online] W3schools.com. Available at: https://www.w3schools.com/python/python_for_loops.asp [Accessed 22 Oct. 2023].
+11. pandas.pydata.org. (n.d.). pandas.to_numeric — pandas 1.4.2 documentation. [online] Available at: https://pandas.pydata.org/docs/reference/api/pandas.to_numeric.html [Accessed 21 Oct. 2023].
+12. pandas.pydata.org. (n.d.). Categorical data — pandas 1.5.0 documentation. [online] Available at: https://pandas.pydata.org/docs/user_guide/categorical.html [Accessed 21 Oct. 2023].
+13. pandas.pydata.org. (n.d.). pandas.Series.cat.ordered — pandas 2.1.1 documentation. [online] Available at: https://pandas.pydata.org/docs/reference/api/pandas.Series.cat.ordered.html [Accessed 21 Oct. 2023].
+14. Satyam, K. (2020). Try, Except, else and Finally in Python. [online] GeeksforGeeks. Available at: https://www.geeksforgeeks.org/try-except-else-and-finally-in-python/ [Accessed 21 Oct. 2023].
+15. Python Tutorial - Master Python Programming For Beginners from Scratch. (n.d.). Understanding the Python try...except...finally Statement. [online] Available at: https://www.pythontutorial.net/python-basics/python-try-except-finally/ [Accessed 21 Oct. 2023].
+16. van de Klundert, S. (n.d.). Python Exceptions: An Introduction – Real Python. [online] realpython.com. Available at: https://realpython.com/python-exceptions/ [Accessed 21 Oct. 2023].
+17. pandas.pydata.org. (n.d.). pandas.isnull — pandas 1.4.2 documentation. [online] Available at: https://pandas.pydata.org/docs/reference/api/pandas.isnull.html [Accessed 21 Oct. 2023].
 ‌
-df.dtypes: pandas.pydata.org. (n.d.). pandas.DataFrame.dtypes — pandas 1.5.1 documentation. [online] Available at: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.dtypes.html [Accessed 20 Oct. 2023].
-
-df.info: w3resource. (2022). Pandas DataFrame: - info() function. [online] Available at: https://www.w3resource.com/pandas/dataframe/dataframe-info.php [Accessed 20 Oct. 2023].
-‌
-dtype astype: note.nkmk.me. (2023). pandas: How to use astype() to cast dtype of DataFrame | note.nkmk.me. [online] Available at: https://note.nkmk.me/en/python-pandas-dtype-astype/ [Accessed 20 Oct. 2023].
-
-df.at: w3resource. (2022a). Pandas DataFrame property: at. [online] Available at: https://www.w3resource.com/pandas/dataframe/dataframe-at.php [Accessed 20 Oct. 2023].
-
-Try, except,else, finally: Satyam, K. (2020). Try, Except, else and Finally in Python. [online] GeeksforGeeks. Available at: https://www.geeksforgeeks.org/try-except-else-and-finally-in-python/ [Accessed 21 Oct. 2023].
-‌Python Tutorial - Master Python Programming For Beginners from Scratch. (n.d.). Understanding the Python try...except...finally Statement. [online] Available at: https://www.pythontutorial.net/python-basics/python-try-except-finally/ [Accessed 21 Oct. 2023].
-van de Klundert, S. (n.d.). Python Exceptions: An Introduction – Real Python. [online] realpython.com. Available at: https://realpython.com/python-exceptions/ [Accessed 21 Oct. 2023].
-‌
-‌
-categorical data: pandas.pydata.org. (n.d.). Categorical data — pandas 1.5.0 documentation. [online] Available at: https://pandas.pydata.org/docs/user_guide/categorical.html [Accessed 21 Oct. 2023].
-pandas.pydata.org. (n.d.). pandas.Series.cat.ordered — pandas 2.1.1 documentation. [online] Available at: https://pandas.pydata.org/docs/reference/api/pandas.Series.cat.ordered.html [Accessed 21 Oct. 2023].
-‌
-‌
-to numeric: pandas.pydata.org. (n.d.). pandas.to_numeric — pandas 1.4.2 documentation. [online] Available at: https://pandas.pydata.org/docs/reference/api/pandas.to_numeric.html [Accessed 21 Oct. 2023].
-‌
-isna: pandas.pydata.org. (n.d.). pandas.isnull — pandas 1.4.2 documentation. [online] Available at: https://pandas.pydata.org/docs/reference/api/pandas.isnull.html [Accessed 21 Oct. 2023].
-‌
-
-‌
-
-
 ## **Task 3 : Penguins Data Set Distribution Model** 
 For each of the variables in the penguins data set(1):
 

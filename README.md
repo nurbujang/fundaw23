@@ -3,32 +3,28 @@
 Author: Nur Bujang
 
 ## List of Contents
-### Tasks
-1. Task 1
+### TASKS
+Task 1
     - Description
     - Method
     - Conclusion
     - References
-
-2. Task 2
+Task 2
     - Description
     - Method
     - Conclusion
     - References
-
-3. Task 3
+Task 3
     - Description
     - Method
     - Conclusion
     - References
-
-4. Task 4
+Task 4
     - Description
     - Method
     - Conclusion
     - References
-
-5. Task 5
+Task 5
     - Description
     - Method
     - Conclusion

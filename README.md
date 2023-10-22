@@ -5,36 +5,36 @@ Author: Nur Bujang
 ## List of Contents
 
 ### TASKS
-Task 1
-    - Description
-    - Method
-    - Conclusion
-    - References
-    
-Task 2
-    - Description
-    - Method
-    - Conclusion
-    - References
-    
-Task 3
-    - Description
-    - Method
-    - Conclusion
-    - References
-    
-Task 4
-    - Description
-    - Method
-    - Conclusion
-    - References
-    
-Task 5
+1. Task 1
     - Description
     - Method
     - Conclusion
     - References
 
+2. Task 2
+    - Description
+    - Method
+    - Conclusion
+    - References
+
+3. Task 3
+    - Description
+    - Method
+    - Conclusion
+    - References
+
+4. Task 4
+    - Description
+    - Method
+    - Conclusion
+    - References
+
+5. Task 5
+    - Description
+    - Method
+    - Conclusion
+    - References
+      
 ## PROJECT: Analysis of Iris Flower Data Set by Ronald A. Fisher
     - Description
     - Method

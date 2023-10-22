@@ -3,27 +3,32 @@
 Author: Nur Bujang
 
 ## List of Contents
+
 ### TASKS
 Task 1
     - Description
     - Method
     - Conclusion
     - References
+    
 Task 2
     - Description
     - Method
     - Conclusion
     - References
+    
 Task 3
     - Description
     - Method
     - Conclusion
     - References
+    
 Task 4
     - Description
     - Method
     - Conclusion
     - References
+    
 Task 5
     - Description
     - Method
@@ -35,7 +40,6 @@ Task 5
     - Method
     - Conclusion
     - References
-
 
 ## **Task 1 : Collatz Conjecture**
 The Collatz conjecture is a famous unsolved problem in mathematics. The problem is to prove that if you start with any positive integer x and  repeatedly apply the function f ( x ) below, you al ways get stuck in the repeating sequence 1, 4, 2, 1, 4, 2, . . .

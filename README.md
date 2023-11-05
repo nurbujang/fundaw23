@@ -135,6 +135,8 @@ The
 2. numpy.org. (n.d.). Random Generator — NumPy v1.21 Manual. [online] Available at: https://numpy.org/doc/stable/reference/random/generator.html [Accessed 4 Nov. 2023].
 w3 random dist: www.w3schools.com. (n.d.). Random Data Distribution. [online] Available at: https://www.w3schools.com/python/numpy/numpy_random_distribution.asp [Accessed 4 Nov. 2023].
 df.info: w3resource. (2022). Pandas DataFrame: - info() function. [online] Available at: https://www.w3resource.com/pandas/dataframe/dataframe-info.php [Accessed 4 Nov. 2023].
+x2: numpy.org. (n.d.). numpy.random.Generator.noncentral_chisquare — NumPy v1.26 Manual. [online] Available at: https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.noncentral_chisquare.html [Accessed 5 Nov. 2023].
+scipy: docs.scipy.org. (n.d.). scipy.stats.goodness_of_fit — SciPy v1.11.3 Manual. [online] Available at: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.goodness_of_fit.html [Accessed 5 Nov. 2023].
  
 
 ## **Task 4 : Head Probability** 

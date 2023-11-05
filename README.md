@@ -133,9 +133,9 @@ The
 ### References:
 1. Waskom, M. (2022). seaborn-data. [online] GitHub. Available at: https://github.com/mwaskom/seaborn-data/blob/master/penguins.csv [Accessed 13 Oct. 2023].  
 2. numpy.org. (n.d.). Random Generator — NumPy v1.21 Manual. [online] Available at: https://numpy.org/doc/stable/reference/random/generator.html [Accessed 4 Nov. 2023].
-3. www.w3schools.com. (n.d.). Random Data Distribution. [online] Available at: https://www.w3schools.com/python/numpy/numpy_random_distribution.asp [Accessed 4 Nov. 2023].
-4. w3resource. (2022). Pandas DataFrame: - info() function. [online] Available at: https://www.w3resource.com/pandas/dataframe/dataframe-info.php [Accessed 4 Nov. 2023].
-5. 
+w3 random dist: www.w3schools.com. (n.d.). Random Data Distribution. [online] Available at: https://www.w3schools.com/python/numpy/numpy_random_distribution.asp [Accessed 4 Nov. 2023].
+df.info: w3resource. (2022). Pandas DataFrame: - info() function. [online] Available at: https://www.w3resource.com/pandas/dataframe/dataframe-info.php [Accessed 4 Nov. 2023].
+ 
 
 ## **Task 4 : Head Probability** 
 Suppose you are flipping two coins, each with a probability p of giving heads.

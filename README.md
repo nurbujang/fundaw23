@@ -137,6 +137,7 @@ w3 random dist: www.w3schools.com. (n.d.). Random Data Distribution. [online] Av
 df.info: w3resource. (2022). Pandas DataFrame: - info() function. [online] Available at: https://www.w3resource.com/pandas/dataframe/dataframe-info.php [Accessed 4 Nov. 2023].
 x2: numpy.org. (n.d.). numpy.random.Generator.noncentral_chisquare — NumPy v1.26 Manual. [online] Available at: https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.noncentral_chisquare.html [Accessed 5 Nov. 2023].
 scipy: docs.scipy.org. (n.d.). scipy.stats.goodness_of_fit — SciPy v1.11.3 Manual. [online] Available at: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.goodness_of_fit.html [Accessed 5 Nov. 2023].
+hypo testing: www.w3schools.com. (n.d.). Statistics - Hypothesis Testing a Mean. [online] Available at: https://www.w3schools.com/statistics/statistics_hypothesis_testing_mean.php [Accessed 6 Nov. 2023].
 lognorm: docs.scipy.org. (n.d.). scipy.stats.lognorm — SciPy v1.10.0 Manual. [online] Available at: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.lognorm.html [Accessed 6 Nov. 2023].
 gamma: docs.scipy.org. (n.d.). scipy.stats.gamma — SciPy v1.11.3 Manual. [online] Available at: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.gamma.html#scipy.stats.gamma [Accessed 6 Nov. 2023].
 skewnorm: docs.scipy.org. (n.d.). scipy.stats.skewnorm — SciPy v1.11.2 Manual. [online] Available at: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.skewnorm.html [Accessed 6 Nov. 2023].

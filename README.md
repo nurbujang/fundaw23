@@ -124,22 +124,26 @@ For each of the variables in the penguins data set(1):
 The task is to suggest what probability distribution from the numpy random distributions list is the most appropriate to model the variable (2).
 
 ### Method:
-1. 
-2.
+1. First, I imported the numpy library for computational operations, pandas library for data processing, matplotlib and seaborn for data plotting and distfit for probability density fitting.
+2. After importing the penguins RAW data (1), I performed df.info to look at the datatype of each variable (2) 
+3. For each variable, I plotted a histogram and plot (3) and try to compare each with the list of probability distributions available (4-5).
+4. Using the python package distfit, I performed a goodness of fit testing to get the best fitting of a probability distribution to a series of data in each variable (6-10).
+5. The distribution with the lowest RSS and matching the plot is selected as the most appropriate to model each variable.
 
 ### Conclusion:
-The 
+The best probability distribution to model the variables bill_length_mm, bill_depth_mm, flipper_length_mm and body_mass_g are Weibull, Beta, Weibull and Gamma distribution, respectively.
 
 ### References:
-1. Waskom, M. (2022). seaborn-data. [online] GitHub. Available at: https://github.com/mwaskom/seaborn-data/blob/master/penguins.csv [Accessed 13 Oct. 2023].  
-2. numpy.org. (n.d.). Random Generator — NumPy v1.21 Manual. [online] Available at: https://numpy.org/doc/stable/reference/random/generator.html [Accessed 4 Nov. 2023].
-w3 random dist: www.w3schools.com. (n.d.). Random Data Distribution. [online] Available at: https://www.w3schools.com/python/numpy/numpy_random_distribution.asp [Accessed 4 Nov. 2023].
-df.info: w3resource. (2022). Pandas DataFrame: - info() function. [online] Available at: https://www.w3resource.com/pandas/dataframe/dataframe-info.php [Accessed 4 Nov. 2023].
-goodness of fit: Onnen, H. (2021). Probability Distributions with Python’s SciPy. [online] Medium. Available at: https://towardsdatascience.com/probability-distributions-with-pythons-scipy-3da89bf60565 [Accessed 8 Nov. 2023].
-Raoniar, R. (2022). Finding the Best Distribution that Fits Your Data using Python’s Fitter Library. [online] The Researchers’ Guide. Available at: https://medium.com/the-researchers-guide/finding-the-best-distribution-that-fits-your-data-using-pythons-fitter-library-319a5a0972e9 [Accessed 8 Nov. 2023].
-Mayo, M. (2022). How to Determine the Best Fitting Data Distribution Using Python. [online] KDnuggets. Available at: https://www.kdnuggets.com/2021/09/determine-best-fitting-data-distribution-python.html [Accessed 8 Nov. 2023].
-distfit: Malloy, G. (2023). How to use distfit package in Python. [online] Medium. Available at: https://blog.devgenius.io/how-to-use-distfit-package-in-python-b5a7b18c5d6c [Accessed 8 Nov. 2023].
-docs.scipy.org. (n.d.). scipy.stats.goodness_of_fit — SciPy v1.11.3 Manual. [online] Available at: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.goodness_of_fit.html [Accessed 5 Nov. 2023].
+1. Waskom, M. (2022). seaborn-data. [online] GitHub. Available at: https://github.com/mwaskom/seaborn-data/blob/master/penguins.csv [Accessed 13 Oct. 2023].
+2. w3resource. (2022). Pandas DataFrame: - info() function. [online] Available at: https://www.w3resource.com/pandas/dataframe/dataframe-info.php [Accessed 4 Nov. 2023].
+3. seaborn.pydata.org. (n.d.). seaborn.histplot — seaborn 0.11.2 documentation. [online] Available at: https://seaborn.pydata.org/generated/seaborn.histplot.html [Accessed 8 Nov. 2023].
+4. numpy.org. (n.d.). Random Generator — NumPy v1.21 Manual. [online] Available at: https://numpy.org/doc/stable/reference/random/generator.html [Accessed 4 Nov. 2023].
+5. www.w3schools.com. (n.d.). Random Data Distribution. [online] Available at: https://www.w3schools.com/python/numpy/numpy_random_distribution.asp [Accessed 4 Nov. 2023].
+6. Onnen, H. (2021). Probability Distributions with Python’s SciPy. [online] Medium. Available at: https://towardsdatascience.com/probability-distributions-with-pythons-scipy-3da89bf60565 [Accessed 8 Nov. 2023].
+7. Raoniar, R. (2022). Finding the Best Distribution that Fits Your Data using Python’s Fitter Library. [online] The Researchers’ Guide. Available at: https://medium.com/the-researchers-guide/finding-the-best-distribution-that-fits-your-data-using-pythons-fitter-library-319a5a0972e9 [Accessed 8 Nov. 2023].
+8. Mayo, M. (2022). How to Determine the Best Fitting Data Distribution Using Python. [online] KDnuggets. Available at: https://www.kdnuggets.com/2021/09/determine-best-fitting-data-distribution-python.html [Accessed 8 Nov. 2023].
+9. distfit: Malloy, G. (2023). How to use distfit package in Python. [online] Medium. Available at: https://blog.devgenius.io/how-to-use-distfit-package-in-python-b5a7b18c5d6c [Accessed 8 Nov. 2023].
+10. docs.scipy.org. (n.d.). scipy.stats.goodness_of_fit — SciPy v1.11.3 Manual. [online] Available at: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.goodness_of_fit.html [Accessed 5 Nov. 2023].
 
 ## **Task 4 : Head Probability** 
 Suppose you are flipping two coins, each with a probability p of giving heads.

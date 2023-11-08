@@ -135,12 +135,11 @@ The
 2. numpy.org. (n.d.). Random Generator — NumPy v1.21 Manual. [online] Available at: https://numpy.org/doc/stable/reference/random/generator.html [Accessed 4 Nov. 2023].
 w3 random dist: www.w3schools.com. (n.d.). Random Data Distribution. [online] Available at: https://www.w3schools.com/python/numpy/numpy_random_distribution.asp [Accessed 4 Nov. 2023].
 df.info: w3resource. (2022). Pandas DataFrame: - info() function. [online] Available at: https://www.w3resource.com/pandas/dataframe/dataframe-info.php [Accessed 4 Nov. 2023].
-x2: numpy.org. (n.d.). numpy.random.Generator.noncentral_chisquare — NumPy v1.26 Manual. [online] Available at: https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.noncentral_chisquare.html [Accessed 5 Nov. 2023].
-scipy: docs.scipy.org. (n.d.). scipy.stats.goodness_of_fit — SciPy v1.11.3 Manual. [online] Available at: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.goodness_of_fit.html [Accessed 5 Nov. 2023].
-hypo testing: www.w3schools.com. (n.d.). Statistics - Hypothesis Testing a Mean. [online] Available at: https://www.w3schools.com/statistics/statistics_hypothesis_testing_mean.php [Accessed 6 Nov. 2023].
-lognorm: docs.scipy.org. (n.d.). scipy.stats.lognorm — SciPy v1.10.0 Manual. [online] Available at: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.lognorm.html [Accessed 6 Nov. 2023].
-gamma: docs.scipy.org. (n.d.). scipy.stats.gamma — SciPy v1.11.3 Manual. [online] Available at: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.gamma.html#scipy.stats.gamma [Accessed 6 Nov. 2023].
-skewnorm: docs.scipy.org. (n.d.). scipy.stats.skewnorm — SciPy v1.11.2 Manual. [online] Available at: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.skewnorm.html [Accessed 6 Nov. 2023].
+goodness of fit: Onnen, H. (2021). Probability Distributions with Python’s SciPy. [online] Medium. Available at: https://towardsdatascience.com/probability-distributions-with-pythons-scipy-3da89bf60565 [Accessed 8 Nov. 2023].
+Raoniar, R. (2022). Finding the Best Distribution that Fits Your Data using Python’s Fitter Library. [online] The Researchers’ Guide. Available at: https://medium.com/the-researchers-guide/finding-the-best-distribution-that-fits-your-data-using-pythons-fitter-library-319a5a0972e9 [Accessed 8 Nov. 2023].
+Mayo, M. (2022). How to Determine the Best Fitting Data Distribution Using Python. [online] KDnuggets. Available at: https://www.kdnuggets.com/2021/09/determine-best-fitting-data-distribution-python.html [Accessed 8 Nov. 2023].
+distfit: Malloy, G. (2023). How to use distfit package in Python. [online] Medium. Available at: https://blog.devgenius.io/how-to-use-distfit-package-in-python-b5a7b18c5d6c [Accessed 8 Nov. 2023].
+docs.scipy.org. (n.d.). scipy.stats.goodness_of_fit — SciPy v1.11.3 Manual. [online] Available at: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.goodness_of_fit.html [Accessed 5 Nov. 2023].
 
 ## **Task 4 : Head Probability** 
 Suppose you are flipping two coins, each with a probability p of giving heads.

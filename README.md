@@ -150,23 +150,26 @@ Suppose you are flipping two coins, each with a probability p of giving heads.
 
 ### Task Description:
 The task is to plot the entropy of the total number of heads versus p.
-
  
 ### Method:
-1. 
-2. 
+1. First, I imported numpy for arrays and random numbers (1), matplotlib for plots (2) and scipy stats entropy function to calculate entropy values (3).
+2. I used random binomial (4) because the probability is only either head or tails.
+3. Then, I created a plot to visualize the probabilities (2).
+4. I defined a function to calculate the entropy using def (5), and used the return statement (6) to end the execution of the function calculate_entropy with values probabilities (getting head only, head and tail, and tail only) and base 2. 
+5. Then, I generated the values for p using numpy linspace to return 500 evenly spaced numbers between 0 and 1 (7).
+8. After calculating the entropy for each p value (3), I generated a plot for entropy of the total number of heads VS probability of getting heads (2).
 
 ### Conclusion:
-The 
+The plot for entropy of the total number of heads VS probability of getting heads was generated.
 
 ### References:
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+1. numpy.org. (n.d.). numpy.array — NumPy v1.19 Manual. [online] Available at: https://numpy.org/doc/stable/reference/generated/numpy.array.html [Accessed 20 Nov. 2023].
+2. matplotlib.org. (n.d.). matplotlib.pyplot — Matplotlib 3.5.3 documentation. [online] Available at: https://matplotlib.org/3.5.3/api/_as_gen/matplotlib.pyplot.html [Accessed 20 Nov. 2023].
+3. docs.scipy.org. (n.d.). scipy.stats.entropy — SciPy v1.7.1 Manual. [online] Available at: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.entropy.html [Accessed 20 Nov. 2023].
+4. Numpy.org. (2021). numpy.random.binomial — NumPy v1.21 Manual. [online] Available at: https://numpy.org/doc/stable/reference/random/generated/numpy.random.binomial.html [Accessed 20 Nov. 2023].
+5. Chris, K. (2022). Python Functions – How to Define and Call a Function. [online] freeCodeCamp.org. Available at: https://www.freecodecamp.org/news/python-functions-define-and-call-a-function/ [Accessed 20 Nov. 2023].
+6. GeeksforGeeks. (2019). Python return statement. [online] Available at: https://www.geeksforgeeks.org/python-return-statement/ [Accessed 20 Nov. 2023].
+7. numpy.org. (n.d.). numpy.linspace — NumPy v1.23 Manual. [online] Available at: https://numpy.org/doc/stable/reference/generated/numpy.linspace.html [Accessed 20 Nov. 2023].
 8. 
 
 ## **Task 5 : Penguins Data Set Plots** 

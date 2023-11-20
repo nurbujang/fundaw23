@@ -198,7 +198,10 @@ The.
 9. 
 10. 
 
-# PROJECT : Analysis of Iris Flower Data Set by Ronald A. Fisher
+
+# PROJECT TABLE OF CONTENT
+
+## PROJECT TITLE: Analysis of Iris Flower Data Set by Ronald A. Fisher
 
 ## Description
 The project is to create a notebook investigating the variables and data points within the well-known iris flower data set associated with Ronald A Fisher.(1)
@@ -211,15 +214,8 @@ Select, demonstrate, and explain the most appropriate plot(s) for each variable.
 
 The notebook should follow a cohesive narrative about the data set.
 
-## Method
+### Method
 
+### Conclusion
 
-## Conclusion
-
-
-## References
-import csv file: datatofish.com. (2023). How to Import a CSV File into Python using Pandas - Data to Fish. [online] Available at: https://datatofish.com/import-csv-file-python-using-pandas/ [Accessed 20 Oct. 2023].
-‌
-df.info: w3resource. (2022). Pandas DataFrame: - info() function. [online] Available at: https://www.w3resource.com/pandas/dataframe/dataframe-info.php [Accessed 20 Oct. 2023].
-‌
-‌
+### References

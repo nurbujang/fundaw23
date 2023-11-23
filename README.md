@@ -22,7 +22,7 @@ Author: Nur Bujang
 
 * 
 
-## TASKS: List of Contents
+## TASKS LIST OF CONTENT
 
 1. Task 1
     - Description
@@ -54,7 +54,7 @@ Author: Nur Bujang
     - Conclusion
     - References
       
-# PROJECT TABLE OF CONTENT
+# PROJECT LIST OF CONTENT
 
 * PROJECT TITLE: Analysis of Iris Flower Data Set by Ronald A. Fisher
 

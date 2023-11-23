@@ -2,7 +2,7 @@
 **Project and tasks for Fundamentals of Data Analytics W2023 ATUGM**
 Author: Nur Bujang
 
-## Repository contents:
+# REPOSITORY CONTENTS
 
 * .gitignore
 
@@ -22,7 +22,7 @@ Author: Nur Bujang
 
 * 
 
-## TASKS LIST OF CONTENT
+# TASKS LIST OF CONTENTS
 
 1. Task 1
     - Description
@@ -54,7 +54,7 @@ Author: Nur Bujang
     - Conclusion
     - References
       
-# PROJECT LIST OF CONTENT
+# PROJECT LIST OF CONTENTS
 
 * PROJECT TITLE: Analysis of Iris Flower Data Set by Ronald A. Fisher
 

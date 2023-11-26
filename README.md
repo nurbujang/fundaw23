@@ -20,7 +20,6 @@ Author: Nur Bujang
 
 * 
 
-* 
 
 # TASKS LIST OF CONTENTS
 

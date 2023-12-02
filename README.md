@@ -59,13 +59,15 @@ Author: Nur Bujang
 
 * Abstract
 
-* Background
+* 1.0 Background
 
-* Methods and Implementation
+* 2.0 Methods and Implementation
 
-* Conclusion
+* 3.0 Analysis
 
-* References
+* 4.0 Conclusion
+
+* 5.0 References
 
 
 ## Technologies Used

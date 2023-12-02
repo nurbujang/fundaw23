@@ -57,7 +57,9 @@ Author: Nur Bujang
 
 * PROJECT TITLE: Analysis of Iris Flower Data Set by Ronald A. Fisher
 
-* Description
+* Abstract
+
+* Background
 
 * Methods and Implementation
 

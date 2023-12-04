@@ -73,11 +73,19 @@ Author: Nur Bujang
 
         * 2.1.2 Column 'class'
 
-* 3.0 Analysis
+            * 2.1.2.1 Object
 
-* 4.0 Conclusion
+            * 2.1.2.2 String
+            
+            * 2.1.2.3 Categorical Data
 
-* 5.0 References
+    * 2.2 Summary Statistics
+
+    * 2.3 Plots
+
+* 3.0 Conclusion
+
+* 4.0 References
 
 
 ## Technologies Used

@@ -63,6 +63,16 @@ Author: Nur Bujang
 
 * 2.0 Methods and Implementation
 
+    * 2.1 Classification of Variables
+
+        * 2.1.1 Columns 'sepal_length', 'sepal_width', 'petal_length' and 'petal_width'
+
+            * 2.1.1.1 float64
+
+            * 2.1.1.2 Continuous Data
+
+        * 2.1.2 Column 'class'
+
 * 3.0 Analysis
 
 * 4.0 Conclusion

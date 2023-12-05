@@ -77,7 +77,7 @@ Author: Nur Bujang
 
             * 2.1.2.2 String
             
-            * 2.1.2.3 Categorical Data
+            * 2.1.2.3 Nominal Categorical Data
 
     * 2.2 Summary Statistics
 

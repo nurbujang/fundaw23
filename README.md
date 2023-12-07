@@ -81,7 +81,83 @@ Author: Nur Bujang
 
     * 2.2 Summary Statistics
 
+        * 2.2.1 sepal_length
+
+            * 2.2.1.1 Count
+
+            * 2.2.1.2 Mean
+            
+            * 2.2.1.3 Std (Standard Deviation)
+
+            * 2.2.1.4 Min
+
+            * 2.2.1.5 25% Quartile
+
+            * 2.2.1.6 50% Quartile (median)
+
+            * 2.2.1.7 75% Quartile
+
+            * 2.2.1.8 Max
+
+        * 2.2.2 sepal_depth
+
+            * 2.2.2.1 Count
+
+            * 2.2.2.2 Mean
+            
+            * 2.2.2.3 Std (Standard Deviation)
+
+            * 2.2.2.4 Min
+
+            * 2.2.2.5 25% Quartile
+
+            * 2.2.2.6 50% Quartile (median)
+
+            * 2.2.2.7 75% Quartile
+
+            * 2.2.2.8 Max
+
+        * 2.2.3 petal_length
+
+            * 2.2.3.1 Count
+
+            * 2.2.3.2 Mean
+            
+            * 2.2.3.3 Std (Standard Deviation)
+
+            * 2.2.3.4 Min
+
+            * 2.2.3.5 25% Quartile
+
+            * 2.2.3.6 50% Quartile (median)
+
+            * 2.2.3.7 75% Quartile
+
+            * 2.2.3.8 Max
+
+        * 2.2.4 petal_depth
+
+            * 2.2.4.1 Count
+
+            * 2.2.4.2 Mean
+            
+            * 2.2.4.3 Std (Standard Deviation)
+
+            * 2.2.4.4 Min
+
+            * 2.2.4.5 25% Quartile
+
+            * 2.2.4.6 50% Quartile (median)
+
+            * 2.2.4.7 75% Quartile
+
+            * 2.2.4.8 Max
+
     * 2.3 Plots
+
+        * 2.3.1 Histogram
+
+        * 2.3.2 Count Plot
 
 * 3.0 Conclusion
 

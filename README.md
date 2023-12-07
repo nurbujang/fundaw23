@@ -149,6 +149,10 @@ Author: Nur Bujang
 
             * 2.2.4.4 Min
 
+                * 2.2.4.4.1 Outliers
+
+                * 2.2.4.4.1 Human Error
+
             * 2.2.4.5 25% Quartile
 
             * 2.2.4.6 50% Quartile (median)

@@ -8,17 +8,21 @@ Author: Nur Bujang
 
 * License
 
-* project1.ipynb (Jupyter notebook)
+* project.ipynb (Jupyter notebook) - main report
 
-    * main report
+* Readme.md for Project 1 - supplementary data of Project 1
 
-* Readme.md for Project 1
+* img folder
 
-    * supplementary data of Project 1
+    * realfunction.png
 
-* 
+    * kde.png
 
-* 
+* data folder
+
+    * iris.csv
+
+    * penguins.csv
 
 
 # TASKS LIST OF CONTENTS
@@ -166,26 +170,36 @@ Author: Nur Bujang
 
 ## Technologies Used
 
-Python 3.11.5
+    Python 3.11.5
 
 ## Installation Instructions
 
-* conda install scipy
+    * conda install scipy
 
-* pip install distfit
+    * pip install distfit
+
+## Running The Code
+
+    * Install [Anaconda](https://www.anaconda.com/download)
+
+    * Install [Visual Studio Code](https://code.visualstudio.com/) 
+
+    * Clone Repository
+
+    * Open Repository in Visual Studio Code
 
 ## Usage Instructions
 
-* .ipynb extension file
+    * .ipynb extension file
 
-* markdown for narrative text
+    * markdown for narrative text
 
-* plain text for code
+    * plain text for code
 
 ## Support Information
 
-G00426044@atu.ie
+    * G00426044@atu.ie
 
 ## License Information
 
-GNU GENERAL PUBLIC LICENSE, Version 3, 29 June 2007
+    * GNU GENERAL PUBLIC LICENSE, Version 3, 29 June 2007

@@ -27,31 +27,31 @@ Author: Nur Bujang
 
 # TASKS LIST OF CONTENTS
 
-1. Task 1
+1. Task 1: Collatz Conjecture
     - Description
     - Methods and Implementation
     - Conclusion
     - References
 
-2. Task 2
+2. Task 2: Penguins Data Set Variables
     - Description
     - Methods and Implementation
     - Conclusion
     - References
 
-3. Task 3
+3. Task 3: Penguins Data Set Distribution Model
     - Description
     - Methods and Implementation
     - Conclusion
     - References
 
-4. Task 4
+4. Task 4: Head Probability
     - Description
     - Methods and Implementation
     - Conclusion
     - References
 
-5. Task 5
+5. Task 5: Penguins Data Set Plots
     - Description
     - Methods and Implementation
     - Conclusion
@@ -59,7 +59,7 @@ Author: Nur Bujang
       
 # PROJECT LIST OF CONTENTS
 
-* PROJECT TITLE: Analysis of Iris Flower Data Set by Ronald A. Fisher
+* PROJECT TITLE: Analysis of Iris Flower Data Set
 
 * Abstract
 

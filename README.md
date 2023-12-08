@@ -103,7 +103,7 @@ Author: Nur Bujang
 
             * 2.2.1.8 Max
 
-        * 2.2.2 sepal_depth
+        * 2.2.2 sepal_width
 
             * 2.2.2.1 Count
 
@@ -139,7 +139,7 @@ Author: Nur Bujang
 
             * 2.2.3.8 Max
 
-        * 2.2.4 petal_depth
+        * 2.2.4 petal_width
 
             * 2.2.4.1 Count
 
@@ -163,7 +163,7 @@ Author: Nur Bujang
 
     * 2.3 Plots
 
-        * 2.3.1 Histogram
+        * 2.3.1 Violin Plot
 
         * 2.3.2 Count Plot
 

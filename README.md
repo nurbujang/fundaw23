@@ -163,9 +163,9 @@ Author: Nur Bujang
 
     * 2.3 Plots
 
-        * 2.3.1 Violin Plot
+        * 2.3.1 Violin Plot for Numerical Data
 
-        * 2.3.2 Count Plot
+        * 2.3.2 Count Plot for Categorical Data
 
 * 3.0 Conclusion
 

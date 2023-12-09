@@ -69,13 +69,13 @@ Author: Nur Bujang
 
     * 2.1 Classification of Variables
 
-        * 2.1.1 Columns 'sepal_length', 'sepal_width', 'petal_length' and 'petal_width'
+        * 2.1.1 Feature Columns: Columns 'sepal_length', 'sepal_width', 'petal_length' and 'petal_width'
 
             * 2.1.1.1 float64
 
             * 2.1.1.2 Continuous Data
 
-        * 2.1.2 Column 'class'
+        * 2.1.2 Target Column: Column 'class'
 
             * 2.1.2.1 Object
 
@@ -151,7 +151,7 @@ Author: Nur Bujang
 
                 * 2.2.4.4.1 Outliers
 
-                * 2.2.4.4.1 Human Error
+                * 2.2.4.4.2 Human Error
 
             * 2.2.4.5 25% Quartile
 
